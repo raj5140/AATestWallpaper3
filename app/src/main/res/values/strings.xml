@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AA CurveWall</string>
+    <string name="set_wallpaper">set wallpaper</string>
+    <string name="hello_wallpaper">Hello WallPaper</string>
+</resources>
